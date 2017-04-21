@@ -1,0 +1,14 @@
+{
+  "name": "dateapi",
+  "version": "1.0.0",
+  "description": "create api that takes UTC or friendly date and returns both UTC and friendly date",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kevin Tarwater",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
