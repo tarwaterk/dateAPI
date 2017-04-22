@@ -2,7 +2,7 @@
   "name": "dateapi",
   "version": "1.0.0",
   "description": "create api that takes UTC or friendly date and returns both UTC and friendly date",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
